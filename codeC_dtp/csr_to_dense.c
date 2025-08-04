@@ -31,7 +31,7 @@ int free_sparse_csr(Sparse_CSR* A_csr);
 
 int main() {
     const char* input_filename = "csr_to_dense.txt";
-    const char* output_filename = "output_csr.txt";
+    const char* output_filename = "output_csr_to_dense.txt";
 
     Sparse_CSR A_csr;
     double* matrix = NULL;

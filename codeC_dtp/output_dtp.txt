@@ -1,0 +1,13 @@
+Ket qua phep nhan ma tran CSR voi vector:
+Kich thuoc ket qua: 10
+--------------------------------------
+result[0] = 45.000000
+result[1] = 0.000000
+result[2] = 6.000000
+result[3] = 64.000000
+result[4] = 0.000000
+result[5] = 20.000000
+result[6] = 0.000000
+result[7] = 5.000000
+result[8] = 28.000000
+result[9] = 0.000000

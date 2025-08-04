@@ -1,0 +1,4 @@
+Vector ket qua sau khi nhan:
+30
+20
+50

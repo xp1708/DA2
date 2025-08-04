@@ -29,7 +29,7 @@ int free_sparse_csr(Sparse_CSR* A_csr);
 
 int main(int argc, char** argv) {
     // If no command line arguments are provided, use default filenames
-    const char* input_filename = "input_dense.txt";
+    const char* input_filename = "matrix_dense.txt";
     const char* output_filename = "output_csr.txt";
 
     // If command line arguments are provided, use them
