@@ -1,0 +1,17 @@
+Ket qua phep nhan ma tran CSR voi vector (Datapath Batched):
+Kich thuoc ket qua: 14
+--------------------------------------
+result[0] = 13054
+result[1] = 15974
+result[2] = 13608
+result[3] = 6017
+result[4] = 11987
+result[5] = 10512
+result[6] = 15343
+result[7] = 17007
+result[8] = 8657
+result[9] = 9886
+result[10] = 16866
+result[11] = 14391
+result[12] = 14981
+result[13] = 11282
